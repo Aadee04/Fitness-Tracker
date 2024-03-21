@@ -1,0 +1,6 @@
+
+/* Hide horizontal scrollbar */
+.scroll-pane .scroll-bar:horizontal {
+    -fx-opacity: 0;
+    -fx-pref-height: 0;
+}
